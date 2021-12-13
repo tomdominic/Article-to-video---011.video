@@ -1,4 +1,4 @@
-Video editing
+Turn content into video :
 
 - Turn article to video
 - Turn web page from URL into video
