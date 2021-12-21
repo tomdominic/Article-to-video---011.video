@@ -7,5 +7,5 @@ Turn Article to video :
 3. Add a music
 4. Click on the slideshow button to start the automatic conversion
 5. That's it, download your video.
-- 
+
 Try https://011.video for free
