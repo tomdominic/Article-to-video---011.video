@@ -1,10 +1,10 @@
 Thanks to https://011.video you can turn content into a video with music in less than 3 minutes, and you don't need more time to understand how to use it.
 
-Article to video
+Article to video :
 Creating video animations, doodles and explainer videos can be quite expensive and time-consuming. Thanks to 011.video, it's easy to turn articles into online videos in no time and at a low cost. You can use 011.video to get an article from a press release, blog or other website, extract the text content and photos and convert it to a video. Thanks to this video maker tool, you'll be able to turn an article into a video with music in less than 3 minutes, without having to spend more time learning how to use it. To create your own video, you don't need to hire an expensive video designer. Do it yourself and save time and money.
 
-Text to video
+Text to video :
 Are you looking for a simple and fast solution to convert text to video on the Internet? Then you've come to the right place! You've taken the time to write a great blog post or create a great landing page, and the last thing you want is to settle for that and assume everyone likes your content in text form. In other words: Repurposing your content can help you reach a new audience, because some members prefer summaries or information in the form of a video. 011.video helps you quickly and easily turn text files or scripts into attractive, customizable videos in minutes. Anyone can do it. No knowledge of video editing is required. With just a few clicks, you can automatically turn text into video. If you want, you can also add audio or a voice-over.
 
-Web page to video
+Web page to video :
 If you are looking for ways to turn websites into videos online and harness the power of video marketing, 011.video is the only way. You can import website content by copying and pasting the URL. With 011.video you can take a URL from a blog or other website, extract the text content and images and turn it into a video. Video editing is done in one of two modes. Automatic slideshow or manual slideshow mode, depending on the customizations you want to make for a particular video.
