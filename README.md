@@ -1,10 +1,27 @@
-Thanks to https://011.video you can turn content into a video with music in less than 3 minutes, and you don't need more time to understand how to use it.
+Ready to Turn Text into Video for free whitout any watermark ?
 
-Article to video: Video animations, doodles, and instructional videos may be costly and time-consuming to produce. It's simple to transform articles into internet videos in no time and at a minimal cost using 011.video. You may use 011.video to turn an article from a press release, blog, or other website into a video by extracting the text content and photographs. You can convert an article into a video with music in less than 3 minutes with this video creator tool, and you won't have to spend any additional time learning how to use it. You don't need to employ an expensive video designer to make your own video. Save time and money by doing it yourself.
+011.video is a video generator that allows you to easily and quickly turn text from a HTML page or WordPress Blog post into a video for social media. 
 
+It allow you to convert webpages into visually stunning videos with typography, color, images, and sound in minutes. Here are some steps on how to use 011.video to turn text from a website or a WordPress blog into a video for social media :
 
+. Start 011.video App
 
-Text to video: Are you seeking for an easy and quick way to convert text to video on the web? Then you've arrived to the perfect spot! You've worked hard to generate a wonderful blog post or landing page, and the last thing you want to do is settle for it and assume that everyone appreciates text-based content. In other words, repurposing your material can help you reach a new audience because some members prefer video summaries or information. In minutes, you can transform text files or scripts into appealing, customisable videos using 011.video. It's something that everybody can do. It is not necessary to have any prior experience with video editing.
+. Copy the URL link or the article from your website or the blog post or any plain text and paste it into the text box
 
+. Edit your text. To summarize the text in a shorter story, move the slide cursor.
 
-Web page to video: If you're searching for a solution to transform your website into a video and use video marketing to its full potential, 011.video is the only way to go. By copying and pasting the URL, you may import website content. You may use 011.video to convert a URL from a blog or other website into a video by extracting the text content and graphics. One of two ways of video editing are available. Depending on the adjustments you wish to make to a given video, you may choose between automatic and manual slideshow modes.
+. Choose the typography font
+
+. Select a new color
+
+. Choose a music background
+
+. Add your own images with file names using story keywords provided by 011.video
+
+. Record to start the conversion process
+
+. Wait until the 011.video.webm file is automatically downloaded
+
+That’s it !
+
+https://011.video is the easiest tool online to convert any text or URL web content into video for free and without any watermark and of course without sign up.
