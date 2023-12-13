@@ -4,7 +4,7 @@ Ready to Turn Text into Video for free whitout any watermark ?
 
 It allow you to convert webpages into visually stunning videos with typography, color, images, and sound in minutes. Here are some steps on how to use 011.video to turn text from a website or a WordPress blog into a video for social media :
 
-. Start 011.video App
+. Head to https://011.video App
 
 . Copy the URL link or the article from your website or the blog post or any plain text and paste it into the text box
 
