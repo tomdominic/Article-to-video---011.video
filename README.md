@@ -1,6 +1,6 @@
 https://011.video : Text to video 100% free online app - No login - No watermark - No limits
 
-011.video is a free user-friendly online tool (Not AI) that converts text into videos without signup and without watermark.
+011.video is a free user-friendly online tool (Not AI) that converts text into videos without sign up required and without watermark.
 
 It requires no technical skills, allowing users to create HD or 4K resolution videos with unlimited durations.
 
