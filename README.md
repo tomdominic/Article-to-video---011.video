@@ -2,9 +2,13 @@
 Do not use AI-generated video scripts with scenes and camera movements to try to make a Hollywood/Bollywood-style video.
 
 What 011.video is best for :
+
 .Kinetic typography videos
+
 .Faceless content
+
 .Quotes & storytelling
+
 .Promo & explainer text videos
 
 ⚡ How to use 011.video
